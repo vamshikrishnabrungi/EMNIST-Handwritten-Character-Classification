@@ -1,4 +1,4 @@
-# Project code for BRUNGI_CHEN_201648205_201284336
+
 
 # Imported libraries
 import torch
